@@ -11,5 +11,6 @@
 - Aladin Persson's github https://github.com/aladdinpersson and youtube channel https://www.youtube.com/channel/UCkzW5JSFwvKRjXABI-UTAkQ
 
 ## Sequence To Sequence model architecture
-![SeqToSeq](https://github.com/shawn-lab-ml/projects/blob/master/nlp/SeqToSeq_MT/sequence-to-sequence-model-with-attention.png)
-source: https://www.researchgate.net/publication/321210603_Using_stochastic_computation_graphs_formalism_for_optimization_of_sequence-to-sequence_model
+![SeqToSeq](https://github.com/shawn-lab-ml/projects/blob/master/nlp/SeqToSeq_MT/attention_mechanism.jpg)
+
+source: https://www.tensorflow.org/tutorials/text/nmt_with_attention
